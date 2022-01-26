@@ -9,7 +9,6 @@ const render = () => {
             divElement.classList.add(`block`);
             divElement.setAttribute('data-x', i);
             divElement.setAttribute('data-y', j);
-            divElement.innerText = `(${i},${j})`;
             rowElement.appendChild(divElement);
         }
 
