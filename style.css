@@ -1,0 +1,32 @@
+.wrapper{
+    width: 640px;
+    height: 640px;
+    border:1px solid black;
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.block{
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    font-weight: bold;
+}
+.black{
+    background-color: black;
+    color: white;
+}
+.white{
+    background-color: white;
+    color: black;
+}
+.row{
+    width: 640px;
+    height: 80px;
+}
+.highlight{
+    background-color: red;
+}

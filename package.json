@@ -1,0 +1,19 @@
+{
+  "name": "chessboard",
+  "version": "1.0.0",
+  "description": "hovering over blocks will highlight actions",
+  "scripts": {
+    "start": "lite-server ."
+  },
+  "keywords": [
+    "chessbaord",
+    "UI",
+    "HTML",
+    "JS",
+    "CSS"
+  ],
+  "author": "Shivam Baghla",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
